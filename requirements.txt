@@ -4,4 +4,4 @@ pydantic>=2.11.7
 httpx[socks]>=0.28.1
 beautifulsoup4>=4.12.2
 throttlebuster>=0.1.12
-moviebox-api==0.5.3
+moviebox-api==0.6.0
